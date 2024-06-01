@@ -1,0 +1,9 @@
+@import url(../node_modules/bootstrap/dist/css/bootstrap.min.css);
+
+body {
+  background-color: rgb(51, 50, 50);
+}
+
+h1 {
+  color: blueviolet;
+}
